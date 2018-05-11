@@ -1,0 +1,42 @@
+/* CSS Document */
+.main{
+	width:990px;
+	height:300px;
+	border:1px solid #eee;
+	margin:10px auto 0 auto;
+}
+.tou{
+	height:40px;
+	background:#eee;
+	background-image:url(images/beijing.png);
+	background-repeat:repeat-x;
+	}
+.main table{
+	float:right;
+	margin:0
+	}
+.main td{
+ border-spacing:10px;
+ padding:8px;}
+ .main td a{
+ 	font-size:1.2em;
+	font-family:"Î¢ÈíÑÅºÚ";
+	color:#000000;
+	text-decoration:none;
+}
+.main h2{
+	margin:0;
+	height:40px;
+	width:120px;
+	line-height:40px;
+	text-align:center;
+	font-family:"Î¢ÈíÑÅºÚ";
+	color:white;
+	background-color:#000000;
+	}
+.model{
+	margin:20px 10px 0 10px;
+	float:left;}
+.model img{
+	border:1px solid #eee;
+	}

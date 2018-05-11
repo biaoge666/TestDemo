@@ -1,0 +1,38 @@
+/* CSS Document */
+#logo{
+	width:990px;
+	height:100px;
+	margin:0 auto;
+	position:relative;
+	}
+#logo>div{
+	position:absolute;
+	top:25px;
+	left:430px;
+	}
+#logo table,tr,td{
+	margin:0px;
+	cellspacing:0;
+	padding:0;
+	border-spacing:0;}
+#logo a{
+	font-family:"Î¢ÈíÑÅºÚ";
+	font-size:1.1em;
+	color:#000000;
+	text-decoration:none;}
+#logo dl,dd{
+	display:inline-block;
+	padding:5px;
+	}
+#text{
+	font-size:1.5em;
+	border-color:#FF0000;
+	}
+#button{
+	width:60px;
+	border-style:none;
+	background-color:#FF0000;
+	font-family:"Î¢ÈíÑÅºÚ";
+	font-size:1.6em;
+	color:white;}
+

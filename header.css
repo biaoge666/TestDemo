@@ -1,0 +1,29 @@
+/* CSS Document */
+body{
+	margin:0;
+	font-size:small;
+	font-family:"Î¢ÈíÑÅºÚ";
+	}
+input,dl,dd{
+	margin:0px;
+	padding:0px;
+	}
+#header{
+	height:25px;
+	background:#E8E8E8;
+	}
+#header>div{
+	width:990px;
+	height:25px;
+	margin:0 auto;
+	line-height:25px;
+	}
+#header>div>div{
+	float:right;
+	height:25px;
+	}
+#header a{
+	text-decoration:none;
+	color:black;
+	}
+

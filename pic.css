@@ -1,0 +1,35 @@
+/* CSS Document */
+#pic{
+	margin-top:20px;
+	width:990px;
+	position:relative;
+	margin:0 auto;
+	
+}
+
+#gonggao{
+	width:200px;
+	height:210px;
+	float:right;
+	border:1px solid #eee;
+	}
+#gonggao h3{
+	border:1px solid outset;
+	margin:0;
+	text-align:center;
+	height:40px;
+	line-height:40px;
+	background-image:url(images/beijing.png);
+	background-repeat:repeat-x;
+	}
+#gonggao font{
+	color:#FF0000;
+	text-decoration:underline;
+}
+
+#hh{
+	position:absolute;
+	right:0;
+	bottom:0;	
+}
+
